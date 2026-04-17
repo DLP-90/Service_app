@@ -9,8 +9,10 @@ __SQLite__ is used because it provides a lightweight, embedded database solution
 
 ## Project Goal
 
-_To create a simple, fast, and reliable mobile app that:_
+__To create a simple, fast, and reliable mobile app that:__
 
 _Displays service intervals for machines_
+
 _Lists required maintenance tasks_
+
 _Works entirely offline_
