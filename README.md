@@ -1,9 +1,9 @@
 # Service Application
 This repository contains a side project I am developing for my brother.
 
-The goal is to create a mobile application that allows users to easily view service intervals and required maintenance tasks for various excavators.
+The goal is to create a mobile application that allows users to easily view _service intervals_ and _required maintenance_ tasks for various excavators.
 
-The application is being built using __Flutter__ for the frontend and __SQLite__ for local data storage, enabling full offline functionality.
+The application is being built using __Flutter__ for the frontend and __SQLite__ for local data storage, enabling _full offline functionality_.
 
 I currently have no prior experience with these technologies, and this project is also an opportunity to learn and gain practical development experience.
 
