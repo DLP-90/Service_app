@@ -16,8 +16,8 @@ __SQLite__ is used because it provides a lightweight, embedded database solution
 
 __To create a simple, fast, and reliable mobile app that:__
 
-_Displays service intervals for machines_
+_* Displays service intervals for machines_
 
-_Lists required maintenance tasks_
+_* Lists required maintenance tasks_
 
-_Works entirely offline_
+_* Works entirely offline_
