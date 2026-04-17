@@ -1,6 +1,11 @@
 # Service Application
-This repository contains files of a side project that i will be working on for my brother, he requested a application that he can use on his phone to check serviceintervalls for various excavators.
-When creating said application i will be using __flutter__ and __SQLite__ , i have no previous experience from these programs but i look forward to learning more about these as i start developing the application.
+This repository contains a side project I am developing for my brother.
+
+The goal is to create a mobile application that allows users to easily view service intervals and required maintenance tasks for various excavators.
+
+The application is being built using __Flutter__ for the frontend and __SQLite__ for local data storage, enabling full offline functionality.
+
+I currently have no prior experience with these technologies, and this project is also an opportunity to learn and gain practical development experience.
 
 ## Why Flutter and SQLite?
 __Flutter__ was chosen for its ability to build cross-platform mobile applications efficiently.
