@@ -8,8 +8,8 @@ The application is being built using __Flutter__ for the frontend and __SQLite__
 I currently have no prior experience with these technologies, and this project is also an opportunity to learn and gain practical development experience.
 
 ## Why Flutter and SQLite?
-__Flutter__ was chosen for its ability to build cross-platform mobile applications efficiently.
-__SQLite__ is used because it provides a lightweight, embedded database solution that works perfectly offline, which is essential for field use.
+__Flutter__ was chosen for its ability to build _cross-platform mobile applications_ efficiently.
+__SQLite__ is used because it provides a lightweight, embedded database solution that works perfectly _offline_, which is essential for field use.
 
 
 ## Project Goal
