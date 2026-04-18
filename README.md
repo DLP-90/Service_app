@@ -5,7 +5,7 @@ The goal is to create a mobile application that allows users to easily view _ser
 
 The application is being built using __Flutter__ for the frontend and __SQLite__ for local data storage, enabling full offline functionality.
 
-I currently have no prior experience with these technologies, and this project is also an opportunity to learn and gain practical development experience.
+I currently have no prior experience with these technologies, so this project is also an opportunity to learn and gain practical development experience.
 
 ## Why Flutter and SQLite?
 
