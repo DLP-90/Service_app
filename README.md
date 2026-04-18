@@ -10,6 +10,7 @@ I currently have no prior experience with these technologies, so this project is
 ## Why Flutter and SQLite?
 
 __Flutter__ was chosen for its ability to build cross-platform mobile applications efficiently.
+
 __SQLite__ is used because it provides a lightweight, embedded database solution that works perfectly offline, which is essential for field use.
 
 
